@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techs/Libraries/Frameworks](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 ## About The Project
@@ -63,7 +63,7 @@ Task will be to do the following exploratory analysis:
 * Years that both players and critics loved
 * Sales in the best video game years
 
-## Used Techs/Libraries/Frameworks
+## Technologies-Libraries-Frameworks
 
 SQL, Python Integration for SQL, Magic SQL Commands, sqlalchemy
 
