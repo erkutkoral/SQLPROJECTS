@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techs/Libraries/Frameworks](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 
@@ -55,7 +55,7 @@ Task will be to do the following exploratory analysis:
 * Summarize the data for international students
 * See if length of stay impacts the test scores
 
-## Used Techs/Libraries/Frameworks
+## Technologies-Libraries-Frameworks
 
 Used Technologies/Libraries: SQL, Python Integration for SQL
 Magic SQL Commands, sqlalchemy
