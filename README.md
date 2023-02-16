@@ -24,15 +24,15 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Technologies-Libraries-Frameworks](#Technologies-Libraries-Frameworks)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 ## About The Project
 
 Updated Project List:
-* Mental Health Project
-* When Was the Golden Age of Video Games Project
-* SQL Final Project via IBM
+* [Mental Health Project](https://github.com/erkutkoral/SQLPROJECTS/tree/main/Mental%20Health%20Project)
+* [When Was the Golden Age of Video Games Project](https://github.com/erkutkoral/SQLPROJECTS/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%20Project)
+* [SQL Final Project via IBM](https://github.com/erkutkoral/SQLPROJECTS/tree/main/IBMSQLFINALPROJECT)
 
 #### Technologies-Libraries-Frameworks
 
