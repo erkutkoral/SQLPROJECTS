@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Techs, Libraries and Frameworks](#built-with)
+* [Technologies-Libraries-Frameworks](#technologies-libraries-frameworks)
 * [Authors](#authors)
 
 ## About The Project
@@ -61,7 +61,7 @@ The following questions were answered using the techniques mentioned.
 9. Update your stored procedure definition. Add a generic ELSE clause to the IF statement that rolls back the current work if the score did not fit any of the preceding categories.
 --> Used Transactions
 
-## Used Techs, Libraries and Frameworks
+## Technologies-Libraries-Frameworks
 
 Used Technologies/Libraries: SQL, Python Integration for SQL
 Magic SQL Commands, sqlalchemy
