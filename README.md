@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Used Technologies/Libraries/Frameworks](#built-with)
+* [Technologies-Libraries-Frameworks](#Technologies-Libraries-Frameworks)
 * [Authors](#authors)
 
 ## About The Project
@@ -34,7 +34,7 @@ Updated Project List:
 * When Was the Golden Age of Video Games Project
 * SQL Final Project via IBM
 
-#### Used Technologies/Libraries/Frameworks
+#### Technologies-Libraries-Frameworks
 
 SQL, Python Integration for SQL
 Magic SQL Commands, sqlalchemy
