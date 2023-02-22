@@ -33,6 +33,7 @@ Updated Project List:
 * [Mental Health Project](https://github.com/erkutkoral/SQLPROJECTS/tree/main/Mental%20Health%20Project)
 * [When Was the Golden Age of Video Games Project](https://github.com/erkutkoral/SQLPROJECTS/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%20Project)
 * [SQL Final Project via IBM](https://github.com/erkutkoral/SQLPROJECTS/tree/main/IBMSQLFINALPROJECT)
+* [Analyzing World Bank Debt Statistics](https://github.com/erkutkoral/SQLPROJECTS/tree/main/Analyzing%20International%20Bank%20Debt%20Statistics)
 
 #### Technologies-Libraries-Frameworks
 
