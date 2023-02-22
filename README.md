@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/erkutkoral/SQLPROJECTS">
-    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-1125-SQL_Server_2022_web_blade_image_RWWaqg:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=600&qlt=100&fmt=png-alpha&fit=constrain" alt="Logo" width="300" height="300">
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-1125-SQL_Server_2022_web_blade_image_RWWaqg:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=600&qlt=100&fmt=png-alpha&fit=constrain" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">SQL Projects</h3>
@@ -34,6 +34,7 @@ Updated Project List:
 * [When Was the Golden Age of Video Games Project](https://github.com/erkutkoral/SQLPROJECTS/tree/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%20Project)
 * [SQL Final Project via IBM](https://github.com/erkutkoral/SQLPROJECTS/tree/main/IBMSQLFINALPROJECT)
 * [Analyzing World Bank Debt Statistics](https://github.com/erkutkoral/SQLPROJECTS/tree/main/Analyzing%20International%20Bank%20Debt%20Statistics)
+* [Analyzing American Baby Name Trends](https://github.com/erkutkoral/SQLPROJECTS/tree/main/Analyzing%20American%20Baby%20Name%20Trends)
 
 #### Technologies-Libraries-Frameworks
 
